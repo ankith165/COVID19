@@ -1,5 +1,5 @@
 # COVID19
-## Forecasting the future Confirmed, Recovered and Death cases in the country.
+## Forecasting the Confirmed, Recovered and Death cases in the country.
 
 ### Data Directory:
 This directory contains data file in .csv format. This is used to predict future cases.
