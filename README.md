@@ -1,4 +1,4 @@
-# COVID19-India
+# COVID19
 ## Forecasting the future Confirmed, Recovered and Death cases in the country.
 
 ### Data Directory:
