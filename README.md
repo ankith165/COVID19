@@ -14,6 +14,6 @@ This directory contains two code file in notebook format(i.e. .ipnyb).
 ### Output Directory:
 This directory contains the forecast result in .txt format(Forecast.txt).
 
-NOTE: All data in the commulative form.
-
 To run this whole project, clone it to your local system(recommanded Google Colab). First run the DataUpdate.ipnyp to get the latest data then execute the ForecastingModel.ipnyb to get the forecasting results. 
+
+NOTE: All data in the commulative form. Please make changes in the file paths according to your system. 
